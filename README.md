@@ -1,4 +1,4 @@
-# Projeto DIO — Conscientização sobre Phishing (versão educativa)
+# Projeto DIO — Conscientização sobre Phishing e demonstração de uma ataque.
 
 ## Objetivo
 - Descrever o funcionamento de ataques de phishing
@@ -23,8 +23,8 @@
 
 ## Procedimento:
 - Acessar terminal "CLI" do Kali-Linux
-- $ sudo su
-- # setoolkit
+- Digitar: "sudo su"
+- Digitar o seguinte comando: "setoolkit"
 - Escolher as opções abaixo:
 - Passo 1: 1) Social-Engineering Attacks
 - Passo 2: 2) Website Attack Vectors
