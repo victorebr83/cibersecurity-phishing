@@ -1,4 +1,4 @@
-# Projeto DIO — Conscientização sobre Phishing e demonstração de uma ataque.
+# Projeto DIO — Conscientização sobre Phishing e demonstração de um ataque.
 
 ## Objetivo
 - Descrever o funcionamento de ataques de phishing
