@@ -23,8 +23,8 @@
 
 ## Procedimento:
 - Acessar terminal "CLI" do Kali-Linux
-- $ sudo su
-- # setoolkit
+- digitar "sudo su"
+- digitar o seguinte comando "setoolkit"
 - Escolher as opções abaixo:
 - Passo 1: 1) Social-Engineering Attacks
 - Passo 2: 2) Website Attack Vectors
